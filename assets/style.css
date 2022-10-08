@@ -1,0 +1,8 @@
+.redes{
+    align-items: center;
+}
+
+.redes a:last-child svg{
+    width: 35px;
+    height: 35px;
+}
